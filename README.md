@@ -30,7 +30,7 @@ A high-fidelity model emphasizing repetitive geometric accuracy and component as
 - **Component Mating:** Precise assembly of the cork base and individual feathers.
 
 ### 📸 Visuals:
-![Shuttlecock Render](Renders/shuttlecock.JPG)
+![Shuttlecock Render](Renders/shuttlecock_1.JPG)
 
 ---
 
